@@ -1,5 +1,3 @@
-Pozdrawiam serdecznie
-#?
-Miglanc i pieron
-###Newia co mom robić
+Dzień dobry witom
 
+Je żech jakimś losowym czowiekym ôd majstrowania w kodzie
